@@ -1,4 +1,4 @@
-<div> align='center'
+<div align='center'> 
 <img serc"./ > 
   <h1> Greetings, Future Innovator! </h1>
   <h2> Step into my realm </h2>
