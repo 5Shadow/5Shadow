@@ -1,7 +1,11 @@
-## Hi there 👋
-
-<!--
-**5Shadow/5Shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> align='center'
+<img serc"./ > 
+  <h1> Greetings, Future Innovator! </h1>
+  <h2> Step into my realm </h2>
+  
+  
+  
+  <\div>
 
 Here are some ideas to get you started:
 
