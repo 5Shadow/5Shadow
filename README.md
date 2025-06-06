@@ -6,9 +6,9 @@
   <h3> My Languages: <br/> <img src='https://skillicons.dev/icons?i=html,css,js&them=light' alt='languages'/> 
     </h3>
     <h3> Software Skills: <br/> <img src='https://skillicons.dev/icons?i=ps,pr,vscode' alt='software'/>
-      
-    </h3>
-  
+      </h3>
+  <h3>Contact me:</h3><br/>
+  <img src='https://skillicons.dev/icons?i=gmail' alt='instagram' width='25px' /> <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer">Instagram</a>
   
   
   </div>
