@@ -9,8 +9,8 @@
       </h3>
   <p><h3>Contact me:</h3><br/>
   <a href="mailto:parighorbani40@gmail.com"> <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px'  <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px' /></a> 
-   <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer"><img src='./https://skillicons.dev/icons?i=instagram' alt='Instagram' width='25px'/></a> 
-  <a href="https://discord.gg/VhyMe7gXhp" target="_blank"> <img src='./https://skillicons.dev/icons?i=discord' alt='Discord'/> </a> 
+   <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer"><img src='https://skillicons.dev/icons?i=instagram' alt='Instagram' width='25px'/></a> 
+  <a href="https://discord.gg/VhyMe7gXhp" target="_blank"> <img src='https://skillicons.dev/icons?i=discord' alt='Discord'/> </a> 
 
 
   </p>
