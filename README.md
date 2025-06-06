@@ -1,5 +1,5 @@
 <div align='center'> 
-<img serc"./ > 
+<img serc"./BFKV0870.JPG > 
   <h1> Greetings, Future Innovator! </h1>
   <h2> Step into my realm </h2>
   
