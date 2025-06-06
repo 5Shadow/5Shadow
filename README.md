@@ -21,7 +21,7 @@
   </div>
 
 <div> <img src='./social-media-marketing.png' alt='Sticker' width='50px' <h3>Abaut me:</h3>
-- 🔭 I’m currently working on Frontend Website Design
+<span>- 🔭 I’m currently working on Frontend Website Design</span>
 - 🌱 I’m currently learning professional JavaScript
 - 👯 I’m looking to collaborate on frontend web design projects that focus on user experience and responsive layouts.
 --></div>
