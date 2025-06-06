@@ -3,8 +3,11 @@
   <h1> Greetings, Future Innovator! </h1>
   <h2> Step into my realm </h2>
 
-  <h3> My Languages: <img src='https://skillicons.dev/icons?i=html,css,js&them=light' alt='languages'/>
-  </h3>
+  <h3> My Languages: <br/> <img src='https://skillicons.dev/icons?i=html,css,js&them=light' alt='languages'/> 
+    </h3>
+    <h3> Software Skills: <br/> <img src='https://skillicons.dev/icons?i=ps,pr,vscode' alt='software'/>
+      
+    </h3>
   
   
   
