@@ -8,9 +8,9 @@
     <h3> Software Skills: <img src='https://skillicons.dev/icons?i=ps,pr,vscode' alt='software'/>
       </h3>
   <p><h3>Contact me:</h3><br/>
-  <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px'  <a href="mailto:parighorbani40@gmail.com">parighorbani40@gamil.com</a><a href="mailto:parighorbani40@gmail.com"></a> /> <br/>
-  <img src='./https://skillicons.dev/icons?i=instagram' alt='Instagram' width='25px' <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer"></a> />  <br/>
-  <img src='./https://skillicons.dev/icons?i=discord' alt='Discord' <a href="https://discord.gg/VhyMe7gXhp" target="_blank"></a> />
+  <a href="mailto:parighorbani40@gmail.com"> <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px'  <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px' /></a> <br/>
+   <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer"><img src='./https://skillicons.dev/icons?i=instagram' alt='Instagram' width='25px'/></a> <br/>
+  <a href="https://discord.gg/VhyMe7gXhp" target="_blank"> <img src='./https://skillicons.dev/icons?i=discord' alt='Discord'/> </a> 
 
 
   </p>
