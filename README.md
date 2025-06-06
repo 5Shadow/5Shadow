@@ -3,12 +3,19 @@
   <h1> Greetings, Future Innovator! </h1>
   <h2> Step into my realm </h2>
 
-  <h3> My Languages: <br/> <img src='https://skillicons.dev/icons?i=html,css,js&them=light' alt='languages'/> 
+  <h3> My Languages:  <img src='https://skillicons.dev/icons?i=html,css,js&them=light' alt='languages'/> 
     </h3>
-    <h3> Software Skills: <br/> <img src='https://skillicons.dev/icons?i=ps,pr,vscode' alt='software'/>
+    <h3> Software Skills: <img src='https://skillicons.dev/icons?i=ps,pr,vscode' alt='software'/>
       </h3>
-  <h3>Contact me:</h3><br/>
-  <img src='https://skillicons.dev/icons?i=gmail' alt='instagram' width='25px' /> <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer">Instagram</a>
+  <p><h3>Contact me:</h3><br/>
+  <img src='https://skillicons.dev/icons?i=gmail' alt='Email' width='25px'  <a href="mailto:parighorbani40@gmail.com">parighorbani40@gamil.com</a><a href="mailto:parighorbani40@gmail.com"></a> /> <br/>
+  <img src='./https://skillicons.dev/icons?i=instagram' alt='Instagram' width='25px' <a href="http://instagram.com/shadow_injast" target="_blank" rel="noopener noreferrer"></a> />  <br/>
+  <img src='./https://skillicons.dev/icons?i=discord' alt='Discord' <a href="https://discord.gg/VhyMe7gXhp" target="_blank"></a> />
+
+
+  </p>
+  
+  
   
   
   </div>
