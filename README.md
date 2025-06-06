@@ -20,7 +20,7 @@
   
   </div>
 
-<div>
+<div> <h3>Abaut me:</h3><a href="https://www.flaticon.com/free-stickers/people" title="people stickers">People stickers created by Stickers - Flaticon</a>
 
 - 🔭 I’m currently working on Frontend Website Design
 - 🌱 I’m currently learning professional JavaScript
